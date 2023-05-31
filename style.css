@@ -35,6 +35,10 @@ p {
     padding: 3em 1.5em;
 }
 
+.grow {
+    flex-grow: 1;
+}
+
 .contacts {
     font-style: italic;
 }
